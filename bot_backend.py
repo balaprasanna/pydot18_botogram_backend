@@ -2,7 +2,7 @@ import botogram
 from datetime import datetime
 import requests
 
-TOKEN = "827321969:AAE_yRGxgLPDDqrusZPqOr0Xd_t7bE5GrZE"
+TOKEN = "REPLACE WITH YOUR TOKEN"
 URL = "https://api.coinmarketcap.com/v2/ticker/"
 
 
